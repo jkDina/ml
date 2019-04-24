@@ -1,0 +1,14 @@
+библиотека numpy
+https://floppyy.ru/2017/04/16/python-numpy/
+https://pythonworld.ru/numpy
+https://www.youtube.com/watch?v=gofPtInbmvc
+
+библиотека matplotlib
+https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
+
+
+библиотека pandas
+https://pythonworld.ru/obrabotka-dannyx/pandas-cookbook-1-csv-reading.html
+
+
+
